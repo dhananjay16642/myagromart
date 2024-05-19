@@ -1,0 +1,2143 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Black rice",
+      "description": "Black rice",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Pusa",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/black rice/thumb.webp",
+      "images": [
+        "/image/paddy/black rice/1.webp",
+        "/image/paddy/black rice/2.jpg",
+        "/image/paddy/black rice/3.jpg",
+        "/image/paddy/black rice/thumb.webp"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Bansi wheat",
+      "description": "Bansi wheat seeds",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Organic",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/bansi wheat/thumb.webp",
+      "images": [
+        "/image/wheat/bansi wheat/1.webp",
+        "/image/wheat/bansi wheat/2.webp",
+        "/image/wheat/bansi wheat/3.webp",
+        "/image/wheat/bansi wheat/thumb.webp"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Biosang garbanzo",
+      "description": "Biosang garbanzo chickpea",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Biosang",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/biosang garbanzo/thumb.webp",
+      "images": [
+        "/image/chickpea/biosang garbanzo/1.webp",
+        "/image/chickpea/biosang garbanzo/2.webp",
+        "/image/chickpea/biosang garbanzo/thumb.webp"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Green pusa",
+      "description": "Green world pusa paddy seeds",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "Pusa",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/green world pusa/thumb.webp",
+      "images": [
+        "/image/paddy/green world pusa/1.webp",
+        "/image/paddy/green world pusa/2.webp",
+        "/image/paddy/green world pusa/3.webp",
+        "/image/paddy/green world pusa/thumb.webp"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Creative farmer",
+      "description": "Creative farmer peas seeds",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Organic",
+      "category": "peas",
+      "thumbnail": "/image/peas/creative farmer peas/thumb.webp",
+      "images": [
+        "/image/peas/creative farmer peas/1.webp",
+        "/image/peas/creative farmer peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Golden Cob",
+      "description": "Golden Cob sweetcorn seeds",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Biosang",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/golden cob sweetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/golden cob sweetcorn/1.webp",
+        "/image/sweetcorn/golden cob sweetcorn/2.webp",
+        "/image/sweetcorn/golden cob sweetcorn/3.jpg",
+        "/image/sweetcorn/golden cob sweetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Biosang black",
+      "description": "Biosang punjab black wheat",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Biosang",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/biosang punjab black wheat/thumb.webp",
+      "images": [
+        "/image/wheat/biosang punjab black wheat/1.webp",
+        "/image/wheat/biosang punjab black wheat/2.webp",
+        "/image/wheat/biosang punjab black wheat/thumb.webp"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Makka sweetcorn",
+      "description": "Makka sweetcorn seeds",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Yield",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/makka sweetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/makka sweetcorn/1.webp",
+        "/image/sweetcorn/makka sweetcorn/2.webp",
+        "/image/sweetcorn/makka sweetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Yield peas",
+      "description": "IIndo american yield peas seeds",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Yield",
+      "category": "peas",
+      "thumbnail": "/image/peas/indo american yield peas/thumb.webp",
+      "images": [
+        "/image/peas/indo american yield peas/1.jpg",
+        "/image/peas/indo american yield peas/2.jpg",
+        "/image/peas/indo american yield peas/3.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Organic garden",
+      "description": "Organic garden peas",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "Organic",
+      "category": "peas",
+      "thumbnail": "/image/peas/organic garden peas/thumb.webp",
+      "images": [
+        "/image/peas/organic garden peas/1.webp",
+        "/image/peas/organic garden peas/2.webp",
+        "/image/peas/organic garden peas/3.webp",
+        "/image/peas/organic garden peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Desi chickpea",
+      "description": "Desi chickpea",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "Organic",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/desi chickpea/thumb.webp",
+      "images": [
+        "/image/chickpea/desi chickpea/1.webp",
+        "/image/chickpea/desi chickpea/2.webp",
+        "/image/chickpea/desi chickpea/thumb.webp"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Kasturi",
+      "description": "kasturi paddy seeds",
+      "price": 40,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 52,
+      "brand": "Biosang",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Kasturi paddy/thumb.webp",
+      "images": [
+        "/image/paddy/Kasturi paddy/1.jpg",
+        "/image/paddy/Kasturi paddy/2.webp",
+        "/image/paddy/Kasturi paddy/3.webp",
+        "/image/paddy/Kasturi paddy/thumb.webp"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Brown rice",
+      "description": "Light brown rice grain seeds",
+      "price": 13,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Pusa",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Light brown rice grain seeds/thumbnail.jpg",
+      "images": [
+        "/image/paddy/Light brown rice grain seeds/1.webp",
+        "/image/paddy/Light brown rice grain seeds/2.jpeg",
+        "/image/paddy/Light brown rice grain seeds/3.jpg",
+        "/image/paddy/Light brown rice grain seeds/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Organic sweetcorn",
+      "description": "Organic sweetcorn seeds",
+      "price": 120,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "brand": "Organic",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/organic sweetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/organic sweetcorn/1.webp",
+        "/image/sweetcorn/organic sweetcorn/3.webp",
+        "/image/sweetcorn/organic sweetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Syngenta",
+      "description": "Syngenta sweetcorn seeds",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Biosang",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/syngenta swetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/syngenta swetcorn/1.webp",
+        "/image/sweetcorn/syngenta swetcorn/2.webp",
+        "/image/sweetcorn/syngenta swetcorn/3.jpg",
+        "/image/sweetcorn/syngenta swetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Black wheat",
+      "description": "Biosang black seeds",
+      "price": 19,
+      "discountPercentage": 13.31,
+      "rating": 4.83,
+      "stock": 110,
+      "brand": "Pusa",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/biosnyg black seeds/thumb.webp",
+      "images": [
+        "/image/wheat/biosnyg black seeds/1.webp",
+        "/image/wheat/biosnyg black seeds/2.webp",
+        "/image/wheat/biosnyg black seeds/3.webp",
+        "/image/wheat/biosnyg black seeds/thumb.webp"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Dioart pusa",
+      "description": "Dioart pusa wheat seeds",
+      "price": 12,
+      "discountPercentage": 4.09,
+      "rating": 4.52,
+      "stock": 78,
+      "brand": "Pusa",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/dioart pusa/thumb.webp",
+      "images": [
+        "/image/wheat/dioart pusa/1.jpg",
+        "/image/wheat/dioart pusa/2.webp",
+        "/image/wheat/dioart pusa/3.jpg",
+        "/image/wheat/dioart pusa/thumb.webp"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Microgreen chana",
+      "description": "Microgreen garbanzo chickpea seeds",
+      "price": 40,
+      "discountPercentage": 13.1,
+      "rating": 4.56,
+      "stock": 88,
+      "brand": "Organic",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/microgreen chana/thumb.webp",
+      "images": [
+        "/image/chickpea/microgreen chana/1.webp",
+        "/image/chickpea/microgreen chana/2.webp",
+        "/image/chickpea/microgreen chana/thumb.webp"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Kabuli",
+      "description": "Organic kabili beans",
+      "price": 46,
+      "discountPercentage": 10.68,
+      "rating": 4.42,
+      "stock": 54,
+      "brand": "Yield",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/organic kabuli beans/thumb.webp",
+      "images": [
+        "/image/chickpea/organic kabuli beans/thumb.webp",
+        "/image/chickpea/organic kabuli beans/thumb.webp",
+        "/image/chickpea/organic kabuli beans/thumb.webp",
+        "/image/chickpea/organic kabuli beans/thumb.webp"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Shree Miniket",
+      "description": "Shree miniket paddy seeds",
+      "price": 70,
+      "discountPercentage": 16.99,
+      "rating": 4.06,
+      "stock": 140,
+      "brand": "Biosang",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/shree miniket paddy/thumb.webp",
+      "images": [
+        "/image/paddy/shree miniket paddy/1.webp",
+        "/image/paddy/shree miniket paddy/2.webp",
+        "/image/paddy/shree miniket paddy/3.webp",
+        "/image/paddy/shree miniket paddy/thumb.webp"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Kisan Beej",
+      "description": "Kisan wheat beej",
+      "price": 20,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "brand": "Organic",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/kisan wheat beej/thumb.webp",
+      "images": [
+        "/image/wheat/kisan wheat beej/1.webp",
+        "/image/wheat/kisan wheat beej/2.webp",
+        "/image/wheat/kisan wheat beej/thumb.webp"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Sri ram",
+      "description": "Sri ram paddy seeds",
+      "price": 14,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "brand": "Biosang",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Sri ram seeds/thumb.png",
+      "images": [
+        "/image/paddy/Sri ram seeds/1.webp",
+        "/image/paddy/Sri ram seeds/2.webp",
+        "/image/paddy/Sri ram seeds/3.jpg"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Sierra Kabuli",
+      "description": "Sierra kanuli chickpea",
+      "price": 14,
+      "discountPercentage": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "brand": "Pusa",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/sierra kabuli/thumb.webp",
+      "images": [
+        "/image/chickpea/sierra kabuli/1.webp",
+        "/image/chickpea/sierra kabuli/2.webp",
+        "/image/chickpea/sierra kabuli/thumb.webp"
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Organic peas",
+      "description": "Organic peas seeds",
+      "price": 46,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "brand": "Organic",
+      "category": "peas",
+      "thumbnail": "/image/peas/organic peas/thumb.webp",
+      "images": [
+        "/image/peas/organic peas/1.jpg",
+        "/image/peas/organic peas/2.webp",
+        "/image/peas/organic peas/3.webp",
+        "/image/peas/organic peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "PMB garden",
+      "description": "PMB garden peas seeds",
+      "price": 70,
+      "discountPercentage": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "brand": "Biosang",
+      "category": "peas",
+      "thumbnail": "/image/peas/pmb garden peas/thumb.webp",
+      "images": [
+        "/image/peas/pmb garden peas/1.jpg",
+        "/image/peas/pmb garden peas/2.jpg",
+        "/image/peas/pmb garden peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Vihaan maize",
+      "description": "Vihaan maize seeds",
+      "price": 41,
+      "discountPercentage": 17.86,
+      "rating": 4.08,
+      "stock": 131,
+      "brand": "Yield",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/vihaan maize/thumb.webp",
+      "images": [
+        "/image/sweetcorn/vihaan maize/1.webp",
+        "/image/sweetcorn/vihaan maize/2.webp",
+        "/image/sweetcorn/vihan maize/thumb.webp"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Green pusa",
+      "description": "Green pusa wheat seeds",
+      "price": 51,
+      "discountPercentage": 15.58,
+      "rating": 4.41,
+      "stock": 17,
+      "brand": "Pusa",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/organic green pusa/thumb.webp",
+      "images": [
+        "/image/wheat/organic green pusa/1.jpg",
+        "/image/wheat/organic green pusa/2.webp",
+        "/image/wheat/organic green pusa/3.jpg",
+        "/image/wheat/organic green pusa/thumb.webp"
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Sakshi farm",
+      "description": "Sakshi farm peas seeds",
+      "price": 20,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "brand": "Biosang",
+      "category": "peas",
+      "thumbnail": "/image/peas/sakshi farm/thumb.webp",
+      "images": [
+        "/image/peas/sakshi farm/1.webp",
+        "/image/peas/sakshi farm/2.webp",
+        "/image/peas/sakshi farm/thumb.webp"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Yield paddy",
+      "description": "Yield paddy seeds",
+      "price": 60,
+      "discountPercentage": 15.34,
+      "rating": 4.44,
+      "stock": 7,
+      "brand": "Yield",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Yield hybrid seeds/thumb.webp",
+      "images": [
+        "/image/paddy/Yield hybrid seeds/1.webp",
+        "/image/paddy/Yield hybrid seeds/thumb.webp"
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Vibex chickpea",
+      "description": "Vibex garbanzo chickpea seeds",
+      "price": 30,
+      "discountPercentage": 2.92,
+      "rating": 4.92,
+      "stock": 54,
+      "brand": "Biosang",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/vibex garabanzo/thumb.webp",
+      "images": [
+        "/image/chickpea/vibex garabanzo/1.webp",
+        "/image/chickpea/vibex garabanzo/2.webp",
+        "/image/chickpea/vibex garabanzo/thumb.webp"
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Black rice",
+      "description": "Black rice",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Pusa",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/black rice/thumb.webp",
+      "images": [
+        "/image/paddy/black rice/1.webp",
+        "/image/paddy/black rice/2.jpg",
+        "/image/paddy/black rice/3.jpg",
+        "/image/paddy/black rice/thumb.webp"
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Bansi wheat",
+      "description": "Bansi wheat seeds",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Organic",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/bansi wheat/thumb.webp",
+      "images": [
+        "/image/wheat/bansi wheat/1.webp",
+        "/image/wheat/bansi wheat/2.webp",
+        "/image/wheat/bansi wheat/3.webp",
+        "/image/wheat/bansi wheat/thumb.webp"
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Biosang garbanzo",
+      "description": "Biosang garbanzo chickpea",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Biosang",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/biosang garbanzo/thumb.webp",
+      "images": [
+        "/image/chickpea/biosang garbanzo/1.webp",
+        "/image/chickpea/biosang garbanzo/2.webp",
+        "/image/chickpea/biosang garbanzo/thumb.webp"
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Green pusa",
+      "description": "Green world pusa paddy seeds",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "Pusa",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/green world pusa/thumb.webp",
+      "images": [
+        "/image/paddy/green world pusa/1.webp",
+        "/image/paddy/green world pusa/2.webp",
+        "/image/paddy/green world pusa/3.webp",
+        "/image/paddy/green world pusa/thumb.webp"
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Creative farmer",
+      "description": "Creative farmer peas seeds",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Organic",
+      "category": "peas",
+      "thumbnail": "/image/peas/creative farmer peas/thumb.webp",
+      "images": [
+        "/image/peas/creative farmer peas/1.webp",
+        "/image/peas/creative farmer peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "36",
+      "title": "Golden Cob",
+      "description": "Golden Cob sweetcorn seeds",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Biosang",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/golden cob sweetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/golden cob sweetcorn/1.webp",
+        "/image/sweetcorn/golden cob sweetcorn/2.webp",
+        "/image/sweetcorn/golden cob sweetcorn/3.jpg",
+        "/image/sweetcorn/golden cob sweetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Biosang black",
+      "description": "Biosang punjab black wheat",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Biosang",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/biosang punjab black wheat/thumb.webp",
+      "images": [
+        "/image/wheat/biosang punjab black wheat/1.webp",
+        "/image/wheat/biosang punjab black wheat/2.webp",
+        "/image/wheat/biosang punjab black wheat/thumb.webp"
+      ]
+    },
+    {
+      "id": "38",
+      "title": "Makka sweetcorn",
+      "description": "Makka sweetcorn seeds",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Yield",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/makka sweetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/makka sweetcorn/1.webp",
+        "/image/sweetcorn/makka sweetcorn/2.webp",
+        "/image/sweetcorn/makka sweetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "39",
+      "title": "Yield peas",
+      "description": "IIndo american yield peas seeds",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Yield",
+      "category": "peas",
+      "thumbnail": "/image/peas/indo american yield peas/thumb.webp",
+      "images": [
+        "/image/peas/indo american yield peas/1.jpg",
+        "/image/peas/indo american yield peas/2.jpg",
+        "/image/peas/indo american yield peas/3.jpg"
+      ]
+    },
+    {
+      "id": "40",
+      "title": "Organic garden",
+      "description": "Organic garden peas",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "Organic",
+      "category": "peas",
+      "thumbnail": "/image/peas/organic garden peas/thumb.webp",
+      "images": [
+        "/image/peas/organic garden peas/1.webp",
+        "/image/peas/organic garden peas/2.webp",
+        "/image/peas/organic garden peas/3.webp",
+        "/image/peas/organic garden peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "41",
+      "title": "Desi chickpea",
+      "description": "Desi chickpea",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "Organic",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/desi chickpea/thumb.webp",
+      "images": [
+        "/image/chickpea/desi chickpea/1.webp",
+        "/image/chickpea/desi chickpea/2.webp",
+        "/image/chickpea/desi chickpea/thumb.webp"
+      ]
+    },
+    {
+      "id": "42",
+      "title": "Kasturi",
+      "description": "kasturi paddy seeds",
+      "price": 40,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 52,
+      "brand": "Biosang",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Kasturi paddy/thumb.webp",
+      "images": [
+        "/image/paddy/Kasturi paddy/1.jpg",
+        "/image/paddy/Kasturi paddy/2.webp",
+        "/image/paddy/Kasturi paddy/3.webp",
+        "/image/paddy/Kasturi paddy/thumb.webp"
+      ]
+    },
+    {
+      "id": "43",
+      "title": "Brown rice",
+      "description": "Light brown rice grain seeds",
+      "price": 13,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Pusa",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Light brown rice grain seeds/thumbnail.jpg",
+      "images": [
+        "/image/paddy/Light brown rice grain seeds/1.webp",
+        "/image/paddy/Light brown rice grain seeds/2.jpeg",
+        "/image/paddy/Light brown rice grain seeds/3.jpg",
+        "/image/paddy/Light brown rice grain seeds/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "44",
+      "title": "Organic sweetcorn",
+      "description": "Organic sweetcorn seeds",
+      "price": 120,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "brand": "Organic",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/organic sweetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/organic sweetcorn/1.webp",
+        "/image/sweetcorn/organic sweetcorn/3.webp",
+        "/image/sweetcorn/organic sweetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "45",
+      "title": "Syngenta",
+      "description": "Syngenta sweetcorn seeds",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Biosang",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/syngenta swetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/syngenta swetcorn/1.webp",
+        "/image/sweetcorn/syngenta swetcorn/2.webp",
+        "/image/sweetcorn/syngenta swetcorn/3.jpg",
+        "/image/sweetcorn/syngenta swetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "46",
+      "title": "Black wheat",
+      "description": "Biosang black seeds",
+      "price": 19,
+      "discountPercentage": 13.31,
+      "rating": 4.83,
+      "stock": 110,
+      "brand": "Pusa",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/biosnyg black seeds/thumb.webp",
+      "images": [
+        "/image/wheat/biosnyg black seeds/1.webp",
+        "/image/wheat/biosnyg black seeds/2.webp",
+        "/image/wheat/biosnyg black seeds/3.webp",
+        "/image/wheat/biosnyg black seeds/thumb.webp"
+      ]
+    },
+    {
+      "id": "47",
+      "title": "Dioart pusa",
+      "description": "Dioart pusa wheat seeds",
+      "price": 12,
+      "discountPercentage": 4.09,
+      "rating": 4.52,
+      "stock": 78,
+      "brand": "Pusa",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/dioart pusa/thumb.webp",
+      "images": [
+        "/image/wheat/dioart pusa/1.jpg",
+        "/image/wheat/dioart pusa/2.webp",
+        "/image/wheat/dioart pusa/3.jpg",
+        "/image/wheat/dioart pusa/thumb.webp"
+      ]
+    },
+    {
+      "id": "48",
+      "title": "Microgreen chana",
+      "description": "Microgreen garbanzo chickpea seeds",
+      "price": 40,
+      "discountPercentage": 13.1,
+      "rating": 4.56,
+      "stock": 88,
+      "brand": "Organic",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/microgreen chana/thumb.webp",
+      "images": [
+        "/image/chickpea/microgreen chana/1.webp",
+        "/image/chickpea/microgreen chana/2.webp",
+        "/image/chickpea/microgreen chana/thumb.webp"
+      ]
+    },
+    {
+      "id": "49",
+      "title": "Kabuli",
+      "description": "Organic kabili beans",
+      "price": 46,
+      "discountPercentage": 10.68,
+      "rating": 4.42,
+      "stock": 54,
+      "brand": "Yield",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/organic kabuli beans/thumb.webp",
+      "images": [
+        "/image/chickpea/organic kabuli beans/thumb.webp",
+        "/image/chickpea/organic kabuli beans/thumb.webp",
+        "/image/chickpea/organic kabuli beans/thumb.webp",
+        "/image/chickpea/organic kabuli beans/thumb.webp"
+      ]
+    },
+    {
+      "id": "50",
+      "title": "Shree Miniket",
+      "description": "Shree miniket paddy seeds",
+      "price": 70,
+      "discountPercentage": 16.99,
+      "rating": 4.06,
+      "stock": 140,
+      "brand": "Biosang",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/shree miniket paddy/thumb.webp",
+      "images": [
+        "/image/paddy/shree miniket paddy/1.webp",
+        "/image/paddy/shree miniket paddy/2.webp",
+        "/image/paddy/shree miniket paddy/3.webp",
+        "/image/paddy/shree miniket paddy/thumb.webp"
+      ]
+    },
+    {
+      "id": "51",
+      "title": "Kisan Beej",
+      "description": "Kisan wheat beej",
+      "price": 20,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "brand": "Organic",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/kisan wheat beej/thumb.webp",
+      "images": [
+        "/image/wheat/kisan wheat beej/1.webp",
+        "/image/wheat/kisan wheat beej/2.webp",
+        "/image/wheat/kisan wheat beej/thumb.webp"
+      ]
+    },
+    {
+      "id": "52",
+      "title": "Sri ram",
+      "description": "Sri ram paddy seeds",
+      "price": 14,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "brand": "Biosang",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Sri ram seeds/thumb.png",
+      "images": [
+        "/image/paddy/Sri ram seeds/1.webp",
+        "/image/paddy/Sri ram seeds/2.webp",
+        "/image/paddy/Sri ram seeds/3.jpg"
+      ]
+    },
+    {
+      "id": "53",
+      "title": "Sierra Kabuli",
+      "description": "Sierra kanuli chickpea",
+      "price": 14,
+      "discountPercentage": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "brand": "Pusa",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/sierra kabuli/thumb.webp",
+      "images": [
+        "/image/chickpea/sierra kabuli/1.webp",
+        "/image/chickpea/sierra kabuli/2.webp",
+        "/image/chickpea/sierra kabuli/thumb.webp"
+      ]
+    },
+    {
+      "id": "54",
+      "title": "Organic peas",
+      "description": "Organic peas seeds",
+      "price": 46,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "brand": "Organic",
+      "category": "peas",
+      "thumbnail": "/image/peas/organic peas/thumb.webp",
+      "images": [
+        "/image/peas/organic peas/1.jpg",
+        "/image/peas/organic peas/2.webp",
+        "/image/peas/organic peas/3.webp",
+        "/image/peas/organic peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "55",
+      "title": "PMB garden",
+      "description": "PMB garden peas seeds",
+      "price": 70,
+      "discountPercentage": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "brand": "Biosang",
+      "category": "peas",
+      "thumbnail": "/image/peas/pmb garden peas/thumb.webp",
+      "images": [
+        "/image/peas/pmb garden peas/1.jpg",
+        "/image/peas/pmb garden peas/2.jpg",
+        "/image/peas/pmb garden peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "56",
+      "title": "Vihaan maize",
+      "description": "Vihaan maize seeds",
+      "price": 41,
+      "discountPercentage": 17.86,
+      "rating": 4.08,
+      "stock": 131,
+      "brand": "Yield",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/vihaan maize/thumb.webp",
+      "images": [
+        "/image/sweetcorn/vihaan maize/1.webp",
+        "/image/sweetcorn/vihaan maize/2.webp",
+        "/image/sweetcorn/vihan maize/thumb.webp"
+      ]
+    },
+    {
+      "id": "57",
+      "title": "Green pusa",
+      "description": "Green pusa wheat seeds",
+      "price": 51,
+      "discountPercentage": 15.58,
+      "rating": 4.41,
+      "stock": 17,
+      "brand": "Pusa",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/organic green pusa/thumb.webp",
+      "images": [
+        "/image/wheat/organic green pusa/1.jpg",
+        "/image/wheat/organic green pusa/2.webp",
+        "/image/wheat/organic green pusa/3.jpg",
+        "/image/wheat/organic green pusa/thumb.webp"
+      ]
+    },
+    {
+      "id": "58",
+      "title": "Sakshi farm",
+      "description": "Sakshi farm peas seeds",
+      "price": 20,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "brand": "Biosang",
+      "category": "peas",
+      "thumbnail": "/image/peas/sakshi farm/thumb.webp",
+      "images": [
+        "/image/peas/sakshi farm/1.webp",
+        "/image/peas/sakshi farm/2.webp",
+        "/image/peas/sakshi farm/thumb.webp"
+      ]
+    },
+    {
+      "id": "59",
+      "title": "Yield paddy",
+      "description": "Yield paddy seeds",
+      "price": 60,
+      "discountPercentage": 15.34,
+      "rating": 4.44,
+      "stock": 7,
+      "brand": "Yield",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Yield hybrid seeds/thumb.webp",
+      "images": [
+        "/image/paddy/Yield hybrid seeds/1.webp",
+        "/image/paddy/Yield hybrid seeds/thumb.webp"
+      ]
+    },
+    {
+      "id": "60",
+      "title": "Vibex chickpea",
+      "description": "Vibex garbanzo chickpea seeds",
+      "price": 30,
+      "discountPercentage": 2.92,
+      "rating": 4.92,
+      "stock": 54,
+      "brand": "Biosang",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/vibex garabanzo/thumb.webp",
+      "images": [
+        "/image/chickpea/vibex garabanzo/1.webp",
+        "/image/chickpea/vibex garabanzo/2.webp",
+        "/image/chickpea/vibex garabanzo/thumb.webp"
+      ]
+    },
+    {
+      "id": "61",
+      "title": "Black rice",
+      "description": "Black rice",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Pusa",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/black rice/thumb.webp",
+      "images": [
+        "/image/paddy/black rice/1.webp",
+        "/image/paddy/black rice/2.jpg",
+        "/image/paddy/black rice/3.jpg",
+        "/image/paddy/black rice/thumb.webp"
+      ]
+    },
+    {
+      "id": "62",
+      "title": "Bansi wheat",
+      "description": "Bansi wheat seeds",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Organic",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/bansi wheat/thumb.webp",
+      "images": [
+        "/image/wheat/bansi wheat/1.webp",
+        "/image/wheat/bansi wheat/2.webp",
+        "/image/wheat/bansi wheat/3.webp",
+        "/image/wheat/bansi wheat/thumb.webp"
+      ]
+    },
+    {
+      "id": "63",
+      "title": "Biosang garbanzo",
+      "description": "Biosang garbanzo chickpea",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Biosang",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/biosang garbanzo/thumb.webp",
+      "images": [
+        "/image/chickpea/biosang garbanzo/1.webp",
+        "/image/chickpea/biosang garbanzo/2.webp",
+        "/image/chickpea/biosang garbanzo/thumb.webp"
+      ]
+    },
+    {
+      "id": "64",
+      "title": "Green pusa",
+      "description": "Green world pusa paddy seeds",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "Pusa",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/green world pusa/thumb.webp",
+      "images": [
+        "/image/paddy/green world pusa/1.webp",
+        "/image/paddy/green world pusa/2.webp",
+        "/image/paddy/green world pusa/3.webp",
+        "/image/paddy/green world pusa/thumb.webp"
+      ]
+    },
+    {
+      "id": "65",
+      "title": "Creative farmer",
+      "description": "Creative farmer peas seeds",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Organic",
+      "category": "peas",
+      "thumbnail": "/image/peas/creative farmer peas/thumb.webp",
+      "images": [
+        "/image/peas/creative farmer peas/1.webp",
+        "/image/peas/creative farmer peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "66",
+      "title": "Golden Cob",
+      "description": "Golden Cob sweetcorn seeds",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Biosang",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/golden cob sweetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/golden cob sweetcorn/1.webp",
+        "/image/sweetcorn/golden cob sweetcorn/2.webp",
+        "/image/sweetcorn/golden cob sweetcorn/3.jpg",
+        "/image/sweetcorn/golden cob sweetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "67",
+      "title": "Biosang black",
+      "description": "Biosang punjab black wheat",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Biosang",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/biosang punjab black wheat/thumb.webp",
+      "images": [
+        "/image/wheat/biosang punjab black wheat/1.webp",
+        "/image/wheat/biosang punjab black wheat/2.webp",
+        "/image/wheat/biosang punjab black wheat/thumb.webp"
+      ]
+    },
+    {
+      "id": "68",
+      "title": "Makka sweetcorn",
+      "description": "Makka sweetcorn seeds",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Yield",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/makka sweetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/makka sweetcorn/1.webp",
+        "/image/sweetcorn/makka sweetcorn/2.webp",
+        "/image/sweetcorn/makka sweetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "69",
+      "title": "Yield peas",
+      "description": "IIndo american yield peas seeds",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Yield",
+      "category": "peas",
+      "thumbnail": "/image/peas/indo american yield peas/thumb.webp",
+      "images": [
+        "/image/peas/indo american yield peas/1.jpg",
+        "/image/peas/indo american yield peas/2.jpg",
+        "/image/peas/indo american yield peas/3.jpg"
+      ]
+    },
+    {
+      "id": "70",
+      "title": "Organic garden",
+      "description": "Organic garden peas",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "Organic",
+      "category": "peas",
+      "thumbnail": "/image/peas/organic garden peas/thumb.webp",
+      "images": [
+        "/image/peas/organic garden peas/1.webp",
+        "/image/peas/organic garden peas/2.webp",
+        "/image/peas/organic garden peas/3.webp",
+        "/image/peas/organic garden peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "71",
+      "title": "Desi chickpea",
+      "description": "Desi chickpea",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "Organic",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/desi chickpea/thumb.webp",
+      "images": [
+        "/image/chickpea/desi chickpea/1.webp",
+        "/image/chickpea/desi chickpea/2.webp",
+        "/image/chickpea/desi chickpea/thumb.webp"
+      ]
+    },
+    {
+      "id": "72",
+      "title": "Kasturi",
+      "description": "kasturi paddy seeds",
+      "price": 40,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 52,
+      "brand": "Biosang",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Kasturi paddy/thumb.webp",
+      "images": [
+        "/image/paddy/Kasturi paddy/1.jpg",
+        "/image/paddy/Kasturi paddy/2.webp",
+        "/image/paddy/Kasturi paddy/3.webp",
+        "/image/paddy/Kasturi paddy/thumb.webp"
+      ]
+    },
+    {
+      "id": "73",
+      "title": "Brown rice",
+      "description": "Light brown rice grain seeds",
+      "price": 13,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Pusa",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Light brown rice grain seeds/thumbnail.jpg",
+      "images": [
+        "/image/paddy/Light brown rice grain seeds/1.webp",
+        "/image/paddy/Light brown rice grain seeds/2.jpeg",
+        "/image/paddy/Light brown rice grain seeds/3.jpg",
+        "/image/paddy/Light brown rice grain seeds/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": "74",
+      "title": "Organic sweetcorn",
+      "description": "Organic sweetcorn seeds",
+      "price": 120,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "brand": "Organic",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/organic sweetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/organic sweetcorn/1.webp",
+        "/image/sweetcorn/organic sweetcorn/3.webp",
+        "/image/sweetcorn/organic sweetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "75",
+      "title": "Syngenta",
+      "description": "Syngenta sweetcorn seeds",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Biosang",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/syngenta swetcorn/thumb.webp",
+      "images": [
+        "/image/sweetcorn/syngenta swetcorn/1.webp",
+        "/image/sweetcorn/syngenta swetcorn/2.webp",
+        "/image/sweetcorn/syngenta swetcorn/3.jpg",
+        "/image/sweetcorn/syngenta swetcorn/thumb.webp"
+      ]
+    },
+    {
+      "id": "76",
+      "title": "Black wheat",
+      "description": "Biosang black seeds",
+      "price": 19,
+      "discountPercentage": 13.31,
+      "rating": 4.83,
+      "stock": 110,
+      "brand": "Pusa",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/biosnyg black seeds/thumb.webp",
+      "images": [
+        "/image/wheat/biosnyg black seeds/1.webp",
+        "/image/wheat/biosnyg black seeds/2.webp",
+        "/image/wheat/biosnyg black seeds/3.webp",
+        "/image/wheat/biosnyg black seeds/thumb.webp"
+      ]
+    },
+    {
+      "id": "77",
+      "title": "Dioart pusa",
+      "description": "Dioart pusa wheat seeds",
+      "price": 12,
+      "discountPercentage": 4.09,
+      "rating": 4.52,
+      "stock": 78,
+      "brand": "Pusa",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/dioart pusa/thumb.webp",
+      "images": [
+        "/image/wheat/dioart pusa/1.jpg",
+        "/image/wheat/dioart pusa/2.webp",
+        "/image/wheat/dioart pusa/3.jpg",
+        "/image/wheat/dioart pusa/thumb.webp"
+      ]
+    },
+    {
+      "id": "78",
+      "title": "Microgreen chana",
+      "description": "Microgreen garbanzo chickpea seeds",
+      "price": 40,
+      "discountPercentage": 13.1,
+      "rating": 4.56,
+      "stock": 88,
+      "brand": "Organic",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/microgreen chana/thumb.webp",
+      "images": [
+        "/image/chickpea/microgreen chana/1.webp",
+        "/image/chickpea/microgreen chana/2.webp",
+        "/image/chickpea/microgreen chana/thumb.webp"
+      ]
+    },
+    {
+      "id": "79",
+      "title": "Kabuli",
+      "description": "Organic kabili beans",
+      "price": 46,
+      "discountPercentage": 10.68,
+      "rating": 4.42,
+      "stock": 54,
+      "brand": "Yield",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/organic kabuli beans/thumb.webp",
+      "images": [
+        "/image/chickpea/organic kabuli beans/thumb.webp",
+        "/image/chickpea/organic kabuli beans/thumb.webp",
+        "/image/chickpea/organic kabuli beans/thumb.webp",
+        "/image/chickpea/organic kabuli beans/thumb.webp"
+      ]
+    },
+    {
+      "id": "80",
+      "title": "Shree Miniket",
+      "description": "Shree miniket paddy seeds",
+      "price": 70,
+      "discountPercentage": 16.99,
+      "rating": 4.06,
+      "stock": 140,
+      "brand": "Biosang",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/shree miniket paddy/thumb.webp",
+      "images": [
+        "/image/paddy/shree miniket paddy/1.webp",
+        "/image/paddy/shree miniket paddy/2.webp",
+        "/image/paddy/shree miniket paddy/3.webp",
+        "/image/paddy/shree miniket paddy/thumb.webp"
+      ]
+    },
+    {
+      "id": "81",
+      "title": "Kisan Beej",
+      "description": "Kisan wheat beej",
+      "price": 20,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "brand": "Organic",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/kisan wheat beej/thumb.webp",
+      "images": [
+        "/image/wheat/kisan wheat beej/1.webp",
+        "/image/wheat/kisan wheat beej/2.webp",
+        "/image/wheat/kisan wheat beej/thumb.webp"
+      ]
+    },
+    {
+      "id": "82",
+      "title": "Sri ram",
+      "description": "Sri ram paddy seeds",
+      "price": 14,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "brand": "Biosang",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Sri ram seeds/thumb.png",
+      "images": [
+        "/image/paddy/Sri ram seeds/1.webp",
+        "/image/paddy/Sri ram seeds/2.webp",
+        "/image/paddy/Sri ram seeds/3.jpg"
+      ]
+    },
+    {
+      "id": "83",
+      "title": "Sierra Kabuli",
+      "description": "Sierra kanuli chickpea",
+      "price": 14,
+      "discountPercentage": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "brand": "Pusa",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/sierra kabuli/thumb.webp",
+      "images": [
+        "/image/chickpea/sierra kabuli/1.webp",
+        "/image/chickpea/sierra kabuli/2.webp",
+        "/image/chickpea/sierra kabuli/thumb.webp"
+      ]
+    },
+    {
+      "id": "84",
+      "title": "Organic peas",
+      "description": "Organic peas seeds",
+      "price": 46,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "brand": "Organic",
+      "category": "peas",
+      "thumbnail": "/image/peas/organic peas/thumb.webp",
+      "images": [
+        "/image/peas/organic peas/1.jpg",
+        "/image/peas/organic peas/2.webp",
+        "/image/peas/organic peas/3.webp",
+        "/image/peas/organic peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "85",
+      "title": "PMB garden",
+      "description": "PMB garden peas seeds",
+      "price": 70,
+      "discountPercentage": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "brand": "Biosang",
+      "category": "peas",
+      "thumbnail": "/image/peas/pmb garden peas/thumb.webp",
+      "images": [
+        "/image/peas/pmb garden peas/1.jpg",
+        "/image/peas/pmb garden peas/2.jpg",
+        "/image/peas/pmb garden peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "86",
+      "title": "Vihaan maize",
+      "description": "Vihaan maize seeds",
+      "price": 41,
+      "discountPercentage": 17.86,
+      "rating": 4.08,
+      "stock": 131,
+      "brand": "Yield",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/vihaan maize/thumb.webp",
+      "images": [
+        "/image/sweetcorn/vihaan maize/1.webp",
+        "/image/sweetcorn/vihaan maize/2.webp",
+        "/image/sweetcorn/vihan maize/thumb.webp"
+      ]
+    },
+    {
+      "id": "87",
+      "title": "Green pusa",
+      "description": "Green pusa wheat seeds",
+      "price": 51,
+      "discountPercentage": 15.58,
+      "rating": 4.41,
+      "stock": 17,
+      "brand": "Pusa",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/organic green pusa/thumb.webp",
+      "images": [
+        "/image/wheat/organic green pusa/1.jpg",
+        "/image/wheat/organic green pusa/2.webp",
+        "/image/wheat/organic green pusa/3.jpg",
+        "/image/wheat/organic green pusa/thumb.webp"
+      ]
+    },
+    {
+      "id": "88",
+      "title": "Sakshi farm",
+      "description": "Sakshi farm peas seeds",
+      "price": 20,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "brand": "Biosang",
+      "category": "peas",
+      "thumbnail": "/image/peas/sakshi farm/thumb.webp",
+      "images": [
+        "/image/peas/sakshi farm/1.webp",
+        "/image/peas/sakshi farm/2.webp",
+        "/image/peas/sakshi farm/thumb.webp"
+      ]
+    },
+    {
+      "id": "89",
+      "title": "Yield paddy",
+      "description": "Yield paddy seeds",
+      "price": 60,
+      "discountPercentage": 15.34,
+      "rating": 4.44,
+      "stock": 7,
+      "brand": "Yield",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Yield hybrid seeds/thumb.webp",
+      "images": [
+        "/image/paddy/Yield hybrid seeds/1.webp",
+        "/image/paddy/Yield hybrid seeds/thumb.webp"
+      ]
+    },
+    {
+      "id": "90",
+      "title": "Vibex chickpea",
+      "description": "Vibex garbanzo chickpea seeds",
+      "price": 30,
+      "discountPercentage": 2.92,
+      "rating": 4.92,
+      "stock": 54,
+      "brand": "Biosang",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/vibex garabanzo/thumb.webp",
+      "images": [
+        "/image/chickpea/vibex garabanzo/1.webp",
+        "/image/chickpea/vibex garabanzo/2.webp",
+        "/image/chickpea/vibex garabanzo/thumb.webp"
+      ]
+    },
+    {
+      "id": "91",
+      "title": "Kisan Beej",
+      "description": "Kisan wheat beej",
+      "price": 20,
+      "discountPercentage": 4.81,
+      "rating": 4.44,
+      "stock": 133,
+      "brand": "Organic",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/kisan wheat beej/thumb.webp",
+      "images": [
+        "/image/wheat/kisan wheat beej/1.webp",
+        "/image/wheat/kisan wheat beej/2.webp",
+        "/image/wheat/kisan wheat beej/thumb.webp"
+      ]
+    },
+    {
+      "id": "92",
+      "title": "Sri ram",
+      "description": "Sri ram paddy seeds",
+      "price": 14,
+      "discountPercentage": 15.58,
+      "rating": 4.57,
+      "stock": 146,
+      "brand": "Biosang",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Sri ram seeds/thumb.png",
+      "images": [
+        "/image/paddy/Sri ram seeds/1.webp",
+        "/image/paddy/Sri ram seeds/2.webp",
+        "/image/paddy/Sri ram seeds/3.jpg"
+      ]
+    },
+    {
+      "id": "93",
+      "title": "Sierra Kabuli",
+      "description": "Sierra kanuli chickpea",
+      "price": 14,
+      "discountPercentage": 8.04,
+      "rating": 4.85,
+      "stock": 26,
+      "brand": "Pusa",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/sierra kabuli/thumb.webp",
+      "images": [
+        "/image/chickpea/sierra kabuli/1.webp",
+        "/image/chickpea/sierra kabuli/2.webp",
+        "/image/chickpea/sierra kabuli/thumb.webp"
+      ]
+    },
+    {
+      "id": "94",
+      "title": "Organic peas",
+      "description": "Organic peas seeds",
+      "price": 46,
+      "discountPercentage": 16.8,
+      "rating": 4.94,
+      "stock": 113,
+      "brand": "Organic",
+      "category": "peas",
+      "thumbnail": "/image/peas/organic peas/thumb.webp",
+      "images": [
+        "/image/peas/organic peas/1.jpg",
+        "/image/peas/organic peas/2.webp",
+        "/image/peas/organic peas/3.webp",
+        "/image/peas/organic peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "95",
+      "title": "PMB garden",
+      "description": "PMB garden peas seeds",
+      "price": 70,
+      "discountPercentage": 13.58,
+      "rating": 4.87,
+      "stock": 47,
+      "brand": "Biosang",
+      "category": "peas",
+      "thumbnail": "/image/peas/pmb garden peas/thumb.webp",
+      "images": [
+        "/image/peas/pmb garden peas/1.jpg",
+        "/image/peas/pmb garden peas/2.jpg",
+        "/image/peas/pmb garden peas/thumb.webp"
+      ]
+    },
+    {
+      "id": "96",
+      "title": "Vihaan maize",
+      "description": "Vihaan maize seeds",
+      "price": 41,
+      "discountPercentage": 17.86,
+      "rating": 4.08,
+      "stock": 131,
+      "brand": "Yield",
+      "category": "sweetcorn",
+      "thumbnail": "/image/sweetcorn/vihaan maize/thumb.webp",
+      "images": [
+        "/image/sweetcorn/vihaan maize/1.webp",
+        "/image/sweetcorn/vihaan maize/2.webp",
+        "/image/sweetcorn/vihan maize/thumb.webp"
+      ]
+    },
+    {
+      "id": "97",
+      "title": "Green pusa",
+      "description": "Green pusa wheat seeds",
+      "price": 51,
+      "discountPercentage": 15.58,
+      "rating": 4.41,
+      "stock": 17,
+      "brand": "Pusa",
+      "category": "wheat",
+      "thumbnail": "/image/wheat/organic green pusa/thumb.webp",
+      "images": [
+        "/image/wheat/organic green pusa/1.jpg",
+        "/image/wheat/organic green pusa/2.webp",
+        "/image/wheat/organic green pusa/3.jpg",
+        "/image/wheat/organic green pusa/thumb.webp"
+      ]
+    },
+    {
+      "id": "98",
+      "title": "Sakshi farm",
+      "description": "Sakshi farm peas seeds",
+      "price": 20,
+      "discountPercentage": 16.49,
+      "rating": 4.82,
+      "stock": 54,
+      "brand": "Biosang",
+      "category": "peas",
+      "thumbnail": "/image/peas/sakshi farm/thumb.webp",
+      "images": [
+        "/image/peas/sakshi farm/1.webp",
+        "/image/peas/sakshi farm/2.webp",
+        "/image/peas/sakshi farm/thumb.webp"
+      ]
+    },
+    {
+      "id": "99",
+      "title": "Yield paddy",
+      "description": "Yield paddy seeds",
+      "price": 60,
+      "discountPercentage": 15.34,
+      "rating": 4.44,
+      "stock": 7,
+      "brand": "Yield",
+      "category": "paddy",
+      "thumbnail": "/image/paddy/Yield hybrid seeds/thumb.webp",
+      "images": [
+        "/image/paddy/Yield hybrid seeds/1.webp",
+        "/image/paddy/Yield hybrid seeds/thumb.webp"
+      ]
+    },
+    {
+      "id": "100",
+      "title": "Vibex chickpea",
+      "description": "Vibex garbanzo chickpea seeds",
+      "price": 30,
+      "discountPercentage": 2.92,
+      "rating": 4.92,
+      "stock": 54,
+      "brand": "Biosang",
+      "category": "chickpea",
+      "thumbnail": "/image/chickpea/vibex garabanzo/thumb.webp",
+      "images": [
+        "/image/chickpea/vibex garabanzo/1.webp",
+        "/image/chickpea/vibex garabanzo/2.webp",
+        "/image/chickpea/vibex garabanzo/thumb.webp"
+      ]
+    },
+    {
+      "id": "43f5",
+      "title": "Abc",
+      "description": "aa",
+      "brand": "Yield",
+      "category": "paddy",
+      "price": 444,
+      "discountPercentage": 12,
+      "stock": 5,
+      "thumbnail": "/image/chickpea/vibex garabanzo/thumb.webp",
+      "images": [
+        "/image/chickpea/vibex garabanzo/1.webp",
+        "/image/chickpea/vibex garabanzo/1.webp",
+        "/image/chickpea/vibex garabanzo/1.webp",
+        "/image/chickpea/vibex garabanzo/thumb.webp"
+      ],
+      "rating": 0,
+      "deleted": true
+    }
+  ],
+  "brands": [
+    {
+      "value": "Pusa",
+      "label": "Pusa",
+      "checked": false,
+      "id": "3b72"
+    },
+    {
+      "value": "Organic",
+      "label": "Organic",
+      "checked": false,
+      "id": "8719"
+    },
+    {
+      "value": "Biosang",
+      "label": "Biosang",
+      "checked": false,
+      "id": "25ea"
+    },
+    {
+      "value": "Yield",
+      "label": "Yield",
+      "checked": false,
+      "id": "9f2a"
+    }
+  ],
+  "categories": [
+    {
+      "value": "paddy",
+      "label": "paddy",
+      "checked": false,
+      "id": "4bee"
+    },
+    {
+      "value": "wheat",
+      "label": "wheat",
+      "checked": false,
+      "id": "1f10"
+    },
+    {
+      "value": "chickpea",
+      "label": "chickpea",
+      "checked": false,
+      "id": "bea5"
+    },
+    {
+      "value": "peas",
+      "label": "peas",
+      "checked": false,
+      "id": "a54c"
+    },
+    {
+      "value": "sweetcorn",
+      "label": "sweetcorn",
+      "checked": false,
+      "id": "24e5"
+    }
+  ],
+  "users": [
+    {
+      "id": "e3c2",
+      "email": "ram@gmail.com",
+      "password": "Ram@12345",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Ram Rathor",
+          "email": "ram@gmail.com",
+          "city": "dehradun",
+          "state": "Uttarakhand",
+          "pinCode": "25815",
+          "phone": "8077480528",
+          "street": "premnagar"
+        }
+      ]
+    },
+    {
+      "id": "8a2c",
+      "email": "jay@gmail.com",
+      "password": "Jay@12345",
+      "addresses": [],
+      "role": "admin"
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": "9de4",
+      "items": [
+        {
+          "id": "bcf4",
+          "title": "Black rice",
+          "description": "Black rice",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Pusa",
+          "category": "paddy",
+          "thumbnail": "/image/paddy/black rice/thumb.webp",
+          "images": [
+            "/image/paddy/black rice/1.webp",
+            "/image/paddy/black rice/2.jpg",
+            "/image/paddy/black rice/3.jpg",
+            "/image/paddy/black rice/thumb.webp"
+          ],
+          "quantity": 1,
+          "user": "e3c2"
+        }
+      ],
+      "totalAmount": 549,
+      "totalItems": 1,
+      "user": {
+        "id": "e3c2",
+        "email": "ram@gmail.com",
+        "password": "Ram@12345",
+        "addresses": [
+          {
+            "name": "Ram Rathor",
+            "email": "ram@gmail.com",
+            "city": "dehradun",
+            "state": "Uttarakhand",
+            "pinCode": "25815",
+            "phone": "8077480528",
+            "street": "premnagar"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Ram Rathor",
+        "email": "ram@gmail.com",
+        "city": "dehradun",
+        "state": "Uttarakhand",
+        "pinCode": "25815",
+        "phone": "8077480528",
+        "street": "premnagar"
+      },
+      "status": "delivered"
+    },
+    {
+      "id": "899c",
+      "items": [
+        {
+          "id": "d759",
+          "title": "Biosang garbanzo",
+          "description": "Biosang garbanzo chickpea",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Biosang",
+          "category": "chickpea",
+          "thumbnail": "/image/chickpea/biosang garbanzo/thumb.webp",
+          "images": [
+            "/image/chickpea/biosang garbanzo/1.webp",
+            "/image/chickpea/biosang garbanzo/2.webp",
+            "/image/chickpea/biosang garbanzo/thumb.webp"
+          ],
+          "quantity": 1,
+          "user": "e3c2"
+        }
+      ],
+      "totalAmount": 1249,
+      "totalItems": 1,
+      "user": {
+        "id": "e3c2",
+        "email": "ram@gmail.com",
+        "password": "Ram@12345",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Ram Rathor",
+            "email": "ram@gmail.com",
+            "city": "dehradun",
+            "state": "Uttarakhand",
+            "pinCode": "25815",
+            "phone": "8077480528",
+            "street": "premnagar"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Ram Rathor",
+        "email": "ram@gmail.com",
+        "city": "dehradun",
+        "state": "Uttarakhand",
+        "pinCode": "25815",
+        "phone": "8077480528",
+        "street": "premnagar"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "809d",
+      "items": [
+        {
+          "id": "4e51",
+          "title": "Golden Cob",
+          "description": "Golden Cob sweetcorn seeds",
+          "price": 1749,
+          "discountPercentage": 11.02,
+          "rating": 4.57,
+          "stock": 83,
+          "brand": "Biosang",
+          "category": "sweetcorn",
+          "thumbnail": "/image/sweetcorn/golden cob sweetcorn/thumb.webp",
+          "images": [
+            "/image/sweetcorn/golden cob sweetcorn/1.webp",
+            "/image/sweetcorn/golden cob sweetcorn/2.webp",
+            "/image/sweetcorn/golden cob sweetcorn/3.jpg",
+            "/image/sweetcorn/golden cob sweetcorn/thumb.webp"
+          ],
+          "productId": "6",
+          "quantity": 1,
+          "user": "e3c2"
+        }
+      ],
+      "totalAmount": 1556,
+      "totalItems": 1,
+      "user": {
+        "id": "e3c2",
+        "email": "ram@gmail.com",
+        "password": "Ram@12345",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Ram Rathor",
+            "email": "ram@gmail.com",
+            "city": "dehradun",
+            "state": "Uttarakhand",
+            "pinCode": "25815",
+            "phone": "8077480528",
+            "street": "premnagar"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Ram Rathor",
+        "email": "ram@gmail.com",
+        "city": "dehradun",
+        "state": "Uttarakhand",
+        "pinCode": "25815",
+        "phone": "8077480528",
+        "street": "premnagar"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "7f7d",
+      "items": [
+        {
+          "id": "8415",
+          "title": "Bansi wheat",
+          "description": "Bansi wheat seeds",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Organic",
+          "category": "wheat",
+          "thumbnail": "/image/wheat/bansi wheat/thumb.webp",
+          "images": [
+            "/image/wheat/bansi wheat/1.webp",
+            "/image/wheat/bansi wheat/2.webp",
+            "/image/wheat/bansi wheat/3.webp",
+            "/image/wheat/bansi wheat/thumb.webp"
+          ],
+          "productId": "2",
+          "quantity": 1,
+          "user": "e3c2"
+        },
+        {
+          "id": "209d",
+          "title": "Biosang garbanzo",
+          "description": "Biosang garbanzo chickpea",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Biosang",
+          "category": "chickpea",
+          "thumbnail": "/image/chickpea/biosang garbanzo/thumb.webp",
+          "images": [
+            "/image/chickpea/biosang garbanzo/1.webp",
+            "/image/chickpea/biosang garbanzo/2.webp",
+            "/image/chickpea/biosang garbanzo/thumb.webp"
+          ],
+          "productId": "3",
+          "quantity": 1,
+          "user": "e3c2"
+        }
+      ],
+      "totalAmount": 1794,
+      "totalItems": 2,
+      "user": {
+        "id": "e3c2",
+        "email": "ram@gmail.com",
+        "password": "Ram@12345",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Ram Rathor",
+            "email": "ram@gmail.com",
+            "city": "dehradun",
+            "state": "Uttarakhand",
+            "pinCode": "25815",
+            "phone": "8077480528",
+            "street": "premnagar"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Ram Rathor",
+        "email": "ram@gmail.com",
+        "city": "dehradun",
+        "state": "Uttarakhand",
+        "pinCode": "25815",
+        "phone": "8077480528",
+        "street": "premnagar"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "5985",
+      "items": [
+        {
+          "id": "f1e0",
+          "title": "Black rice",
+          "description": "Black rice",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Pusa",
+          "category": "paddy",
+          "thumbnail": "/image/paddy/black rice/thumb.webp",
+          "images": [
+            "/image/paddy/black rice/1.webp",
+            "/image/paddy/black rice/2.jpg",
+            "/image/paddy/black rice/3.jpg",
+            "/image/paddy/black rice/thumb.webp"
+          ],
+          "productId": "1",
+          "quantity": 2,
+          "user": "e3c2"
+        }
+      ],
+      "totalAmount": 956,
+      "totalItems": 2,
+      "user": {
+        "id": "e3c2",
+        "email": "ram@gmail.com",
+        "password": "Ram@12345",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Ram Rathor",
+            "email": "ram@gmail.com",
+            "city": "dehradun",
+            "state": "Uttarakhand",
+            "pinCode": "25815",
+            "phone": "8077480528",
+            "street": "premnagar"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Ram Rathor",
+        "email": "ram@gmail.com",
+        "city": "dehradun",
+        "state": "Uttarakhand",
+        "pinCode": "25815",
+        "phone": "8077480528",
+        "street": "premnagar"
+      },
+      "status": "pending"
+    }
+  ]
+}
