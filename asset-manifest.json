@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myagromart/static/css/main.abef9364.css",
+    "main.js": "/myagromart/static/js/main.d2aa0fd4.js",
+    "static/js/453.41d0be21.chunk.js": "/myagromart/static/js/453.41d0be21.chunk.js",
+    "index.html": "/myagromart/index.html",
+    "main.abef9364.css.map": "/myagromart/static/css/main.abef9364.css.map",
+    "main.d2aa0fd4.js.map": "/myagromart/static/js/main.d2aa0fd4.js.map",
+    "453.41d0be21.chunk.js.map": "/myagromart/static/js/453.41d0be21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abef9364.css",
+    "static/js/main.d2aa0fd4.js"
+  ]
+}
